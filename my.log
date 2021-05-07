@@ -1,0 +1,23 @@
+2021-05-07 01:03:52,467  INFO [main] Log4jTest:37 - ****************************** Starting test cases execution  *****************************************
+2021-05-07 01:04:03,729  INFO [main] Log4jTest:55 - entering application URL
+2021-05-07 01:04:03,730  WARN [main] Log4jTest:56 - this just a warning message
+2021-05-07 01:04:03,731 FATAL [main] Log4jTest:57 - this is just fatal error message
+2021-05-07 01:04:03,732 DEBUG [main] Log4jTest:58 - this is debug message
+2021-05-07 01:04:06,473  INFO [main] Log4jTest:111 - ****************************** Browser is closed *****************************************
+2021-05-07 01:04:06,476  INFO [main] Log4jTest:37 - ****************************** Starting test cases execution  *****************************************
+2021-05-07 01:04:14,918  INFO [main] Log4jTest:55 - entering application URL
+2021-05-07 01:04:14,918  WARN [main] Log4jTest:56 - this just a warning message
+2021-05-07 01:04:14,919 FATAL [main] Log4jTest:57 - this is just fatal error message
+2021-05-07 01:04:14,920 DEBUG [main] Log4jTest:58 - this is debug message
+2021-05-07 01:04:14,922  INFO [main] Log4jTest:68 - ****************************** starting test case *****************************************
+2021-05-07 01:04:14,923  INFO [main] Log4jTest:69 - ****************************** loginPageTitleTest *****************************************
+2021-05-07 01:04:14,944  INFO [main] Log4jTest:74 - login page title is Cogmento CRM
+2021-05-07 01:04:14,945  INFO [main] Log4jTest:78 - ****************************** ending test case *****************************************
+2021-05-07 01:04:14,946  INFO [main] Log4jTest:79 - ****************************** loginPageTitleTest *****************************************
+2021-05-07 01:04:16,062  INFO [main] Log4jTest:111 - ****************************** Browser is closed *****************************************
+2021-05-07 01:04:16,065  INFO [main] Log4jTest:37 - ****************************** Starting test cases execution  *****************************************
+2021-05-07 01:04:22,202  INFO [main] Log4jTest:55 - entering application URL
+2021-05-07 01:04:22,203  WARN [main] Log4jTest:56 - this just a warning message
+2021-05-07 01:04:22,203 FATAL [main] Log4jTest:57 - this is just fatal error message
+2021-05-07 01:04:22,205 DEBUG [main] Log4jTest:58 - this is debug message
+2021-05-07 01:04:25,040  INFO [main] Log4jTest:111 - ****************************** Browser is closed *****************************************

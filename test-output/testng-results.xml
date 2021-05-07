@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-07T01:03:52 EDT" name="Default suite" finished-at="2021-05-07T01:04:25 EDT" duration-ms="32694">
+    <groups>
+    </groups>
+    <test started-at="2021-05-07T01:03:52 EDT" name="Default test" finished-at="2021-05-07T01:04:25 EDT" duration-ms="32694">
+      <class name="testcases.Log4jTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.Log4jTest@1a942c18]" started-at="2021-05-07T01:03:52 EDT" name="setUp" finished-at="2021-05-07T01:04:03 EDT" duration-ms="11277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="lockIconTest()[pri:0, instance:testcases.Log4jTest@1a942c18]" started-at="2021-05-07T01:04:03 EDT" name="lockIconTest" finished-at="2021-05-07T01:04:05 EDT" duration-ms="1646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lockIconTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.Log4jTest@1a942c18]" started-at="2021-05-07T01:04:05 EDT" name="tearDown" finished-at="2021-05-07T01:04:06 EDT" duration-ms="1084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.Log4jTest@1a942c18]" started-at="2021-05-07T01:04:06 EDT" name="setUp" finished-at="2021-05-07T01:04:14 EDT" duration-ms="8446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:testcases.Log4jTest@1a942c18]" started-at="2021-05-07T01:04:14 EDT" name="loginPageTitleTest" finished-at="2021-05-07T01:04:14 EDT" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.Log4jTest@1a942c18]" started-at="2021-05-07T01:04:14 EDT" name="tearDown" finished-at="2021-05-07T01:04:16 EDT" duration-ms="1111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.Log4jTest@1a942c18]" started-at="2021-05-07T01:04:16 EDT" name="setUp" finished-at="2021-05-07T01:04:22 EDT" duration-ms="6141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="userIconTest()[pri:0, instance:testcases.Log4jTest@1a942c18]" started-at="2021-05-07T01:04:22 EDT" name="userIconTest" finished-at="2021-05-07T01:04:23 EDT" duration-ms="1752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userIconTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.Log4jTest@1a942c18]" started-at="2021-05-07T01:04:23 EDT" name="tearDown" finished-at="2021-05-07T01:04:25 EDT" duration-ms="1080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.Log4jTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
