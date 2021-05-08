@@ -21,7 +21,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class Log4jTest {
-	
+	//This is a comment
 	
 	public  WebDriver     driver;
 	
